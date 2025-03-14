@@ -1,10 +1,3 @@
-# Introductory applied machine learning (INFR10069)
-
-Semester-long course at The University of Edinburgh.
-
-Course catalogue - http://www.drps.ed.ac.uk/17-18/dpt/cxinfr10069.html
-
-
 # Applied Machine Learning with Python
 
 ## Overview
@@ -44,4 +37,4 @@ jupyter notebook
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the repository.
-
+(INFR10069)
